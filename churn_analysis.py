@@ -154,4 +154,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n\u2717 Error during execution: {str(e)}")
         print("\nPlease ensure all dependencies are installed:")
-        print("  pip install -r requirements.txt\n")sw
+        print("  pip install -r requirements.txt\n")
